@@ -1,0 +1,7 @@
+facebook_pages:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: "{{ env_var('DUCKDB_PATH', 'facebook_pages_pipeline.duckdb') }}"
+      schema: facebook_pages

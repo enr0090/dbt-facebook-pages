@@ -1,0 +1,58 @@
+# dbt
+target/
+logs/
+dbt_packages/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Database files
+*.duckdb
+*.duckdb.wal
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Secrets
+.dbt/profiles.yml.bak
+*secret*
+*credential*
+
+# pytest
+.pytest_cache/
+.coverage
+
+# Jupyter
+.ipynb_checkpoints/
+
+# dbt artifacts that shouldn't be committed
+manifest.json
+catalog.json
+run_results.json
+graph_summary.json

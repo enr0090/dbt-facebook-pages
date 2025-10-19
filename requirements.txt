@@ -1,0 +1,20 @@
+# Facebook Pages dbt Transformation Models Requirements
+
+# dbt for data transformation
+dbt-core>=1.6.0
+dbt-duckdb>=1.6.0
+
+# Data processing (for dbt operations)
+pandas>=2.0.0
+pyarrow>=10.0.0
+
+# Development and testing
+pytest>=7.0.0
+black>=23.0.0
+
+# Documentation and visualization
+mkdocs>=1.5.0
+mkdocs-material>=9.0.0
+
+# Optional: For additional dbt packages
+# sqlfluff>=2.0.0  # SQL linting
