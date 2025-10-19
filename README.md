@@ -224,7 +224,7 @@ This includes:
 ## 🔗 Data Pipeline Integration
 
 This dbt project is designed to work with extracted data from:
-👉 **[dlt-facebook-pages](../dlt-facebook-pages)** - Extract Facebook Pages data with DLT
+👉 **[dlt-facebook-pages](https://github.com/enr0090/dlt-facebook-pages)** - Extract Facebook Pages data with DLT
 
 ### Complete Workflow
 
@@ -289,4 +289,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-**Previous Step**: Extract data with the **[dlt-facebook-pages](../dlt-facebook-pages)** project before running these transformations.
+**Previous Step**: Extract data with the **[dlt-facebook-pages](https://github.com/enr0090/dlt-facebook-pages)** project before running these transformations.
