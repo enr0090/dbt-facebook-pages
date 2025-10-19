@@ -1,6 +1,6 @@
 # Facebook Pages dbt Transformation Models
 
-A comprehensive dbt project that transforms raw Facebook Pages data into analytics-ready models, providing clean, tested, and documented data marts for business intelligence and reporting.
+A comprehensive dbt project that transforms raw Facebook Pages data into analytics-ready models, providing clean, tested, and documented data marts for business intelligence and reporting. Based on **[Facebook Pages dbt Package](https://hub.getdbt.com/fivetran/facebook_pages/latest/)**.
 
 ## 🚀 Features
 
