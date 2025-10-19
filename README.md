@@ -38,7 +38,7 @@ Business-ready analytics models:
 
 1. **Clone and setup environment:**
    ```bash
-   git clone git@github.com:enr0090/dbt-facebook-pages.git
+   git clone https://github.com/enr0090/dbt-facebook-pages.git
    cd dbt-facebook-pages
    python -m venv venv
    source venv/bin/activate
